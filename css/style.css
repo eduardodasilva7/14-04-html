@@ -291,3 +291,54 @@
 .big{
     font-size: 78px;
 }
+
+.inline-box{
+    width: 50px;
+    height: 50px;
+    display: inline-block;
+    background-color: #4f8;
+    margin: 10px;
+}
+.block{
+    background-color: #333;
+    margin: 10px;
+    color: white;
+    display: block;
+}
+.invisible{
+    background-color: #a5f;
+    display: none;
+}
+.static{
+    background-color: #4f8;
+    width: 150px;
+    height: 150px;
+    margin-bottom: 5px;
+    position: static;
+    
+}
+.relative{
+    background-color: rgb(23, 4, 75);
+    width: 100px;
+    height: 100px;
+    position: relative;
+    top: 100px;
+    left: 40px;
+    color: white;
+}
+.relative-container
+.absolute{
+    background-color: #964;
+    width: 100px;
+    height: 100px;
+    color: white;
+    top: 20px;
+    right: 20px;
+    position: absolute;
+}
+.absolute-2
+.absolute-3
+.absolute-4
+.absolute-5{
+
+}
